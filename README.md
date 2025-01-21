@@ -37,6 +37,7 @@ The Balaji Fast Food wants to create an annual sales report for 2022 and 2023. s
 •	Menu items such as sandwiches, sugarcane juice, and vadapav show an increasing trend in sales during nighttime. This insight can inform staffing schedules and targeted promotions to maximize late-night sales.
 •	Male customers predominantly use cash for transactions, while female customers exhibit a balanced preference for cash and online payment methods, highlighting gender-specific behaviour that could influence marketing and payment system strategies.
 
-
+## Final Conclusion
+The analysis highlights that October 2022 had the highest sales, driven likely by seasonal factors. Food items, especially cold coffee (17% of orders), are key revenue drivers, with nighttime sales trends favoring sandwiches, sugarcane juice, and vadapav. Cash remains the preferred payment method (55%), particularly among male customers, while female customers exhibit balanced payment preferences. These insights suggest opportunities to optimize inventory, staffing, and promotions, while encouraging digital payment adoption and leveraging time-based sales patterns for growth.
 
 
