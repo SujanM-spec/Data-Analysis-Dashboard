@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-This dashboard is ideal for professionals seeking to analyze and present data insights efficiently. Whether you are tracking business performance, sales trends, or operational metrics, this Excel tool provides an intuitive and powerful solution.
+# Balaji Fast Food Data Analysis (Interactive Dashboard creation using MS Excel)
+## project Objective
+The Balaji Fast Food wants to create an annual sales report for 2022 and 2023. so that, the owner has business insights regarding customers and sales growth in upcoming year.
