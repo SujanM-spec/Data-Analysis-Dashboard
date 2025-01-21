@@ -17,11 +17,8 @@ The Balaji Fast Food wants to create an annual sales report for 2022 and 2023. s
 
 ## Process
 •	Verified the dataset for missing values, inconsistencies, and anomalies.
-•	Addressed issues through imputation or removal, ensuring the data is complete and accurate.
 •	Ensured uniformity in data types, formats, and values (e.g., consistent date formats, standardized categorical entries).
-•	Applied normalization techniques to prepare data for analysis.
 •	Created multiple pivot tables to answer specific analytical questions (e.g., sales trends, category comparisons, customer behaviour).
-•	Leveraged calculated fields and filters to derive insights and simplify data representation.
 •	Integrated all pivot tables into a single, interactive dashboard.
 •	Added slicers for real-time filtering and dynamic data visualization, enhancing user interaction and decision-making capabilities.
 
@@ -30,12 +27,12 @@ The Balaji Fast Food wants to create an annual sales report for 2022 and 2023. s
 <img width="791" alt="Dashboard" src="https://github.com/user-attachments/assets/aa5ed4d6-d5fd-4236-aa0e-21eb3c0885f9" />
 
 ## Project Insight
-•	October 2022 recorded the highest sales compared to other months. Promotion and marketing can be done during least sales months.
-•	Food sales outperformed beverages in terms of both revenue and order volume, highlighting the importance of food items in driving overall sales.
-•	Customers are 55% more likely to pay by cash compared to online payment methods, suggesting the need to maintain robust cash handling processes while promoting online payment options for convenience.
-•	Cold coffee emerged as the most ordered item, accounting for 17% of total orders, indicating its strong customer preference.
-•	Menu items such as sandwiches, sugarcane juice, and vadapav show an increasing trend in sales during nighttime. This insight can inform staffing schedules and targeted promotions to maximize late-night sales.
-•	Male customers predominantly use cash for transactions, while female customers exhibit a balanced preference for cash and online payment methods, highlighting gender-specific behaviour that could influence marketing and payment system strategies.
+•	October 2022 recorded the highest sales compared to other months. 
+•	Food sales outperformed beverages in terms of both revenue and order volume.
+•	Customers are 55% more likely to pay by cash compared to online payment methods.
+•	Cold coffee emerged as the most ordered item, accounting for 17% of total orders.
+•	Menu items such as sandwiches, sugarcane juice, and vadapav show an increasing trend in sales during nighttime. 
+•	Male customers predominantly use cash for transactions, while female customers exhibit a balanced preference.
 
 ## Final Conclusion
 The analysis highlights that October 2022 had the highest sales, driven likely by seasonal factors. Food items, especially cold coffee (17% of orders), are key revenue drivers, with nighttime sales trends favoring sandwiches, sugarcane juice, and vadapav. Cash remains the preferred payment method (55%), particularly among male customers, while female customers exhibit balanced payment preferences. These insights suggest opportunities to optimize inventory, staffing, and promotions, while encouraging digital payment adoption and leveraging time-based sales patterns for growth.
